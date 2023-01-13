@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jackson S (@t3chj4ck) 
+- 👋 Hi, I’m Jackson S
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking for job in frontend developer role
