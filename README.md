@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jackson S
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking for job in frontend developer role
 - 📫 How to reach me Contact via mail(jacksons3bastian@gmail.com) or linkedin(Jackson S)https://www.linkedin.com/in/techj4ck/
 
